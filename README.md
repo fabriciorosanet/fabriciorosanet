@@ -8,6 +8,8 @@
      <img align="center" height="30" width="40" alt="dotnet-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" height="30" width="40" alt="blazor-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg">    
    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" alt="springboot-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
   </div>
   
   
