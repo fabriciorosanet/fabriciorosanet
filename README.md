@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Developer.<br> C# .NET <br> SQL , Entity Framework<br> - </p>
+<p align="left">Software Developer.<br> C# .NET <br> SQL , Entity Framework<br> </p>
 
 ###
 
