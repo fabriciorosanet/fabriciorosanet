@@ -5,6 +5,10 @@
 Desenvolvedor focado em backend, com experiência em .NET, Java, e automação de processos. Apaixonado por criar soluções escaláveis, APIs robustas, e contribuir para projetos open source.
 </p>
 
+<h3 align="left">BootCamps:</h3>
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/d5f94ec2-4e83-46ed-a5b0-41461e229970" height="80" alt="Randstad - Backend com .NET" />
+</div> 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -25,6 +29,7 @@ Desenvolvedor focado em backend, com experiência em .NET, Java, e automação d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"
     alt="docker logo" />
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
