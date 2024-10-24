@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-Desenvolvedor focado em backend, com experiência em .NET, Java, e automação de processos. Apaixonado por criar soluções escaláveis, APIs robustas, e contribuir para projetos open source.
+Desenvolvedor focado em backend, com experiência em .NET, Java, Node.js, Python e automação de processos. Apaixonado por criar soluções escaláveis, APIs robustas, e contribuir para projetos open source.
 </p>
 
 <h3 align="left">BootCamps:</h3>
